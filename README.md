@@ -32,3 +32,5 @@ The dashboard utilizes a dataset containing information such as case number, cas
 - Incorporate additional data sources to provide deeper insights into the data job market.
 - Implement advanced analytics techniques for predictive analysis and forecasting.
 - Enhance user interactivity and customization options within the dashboard.
+
+![Screenshot](bus_dash.PNG)
